@@ -1,0 +1,8 @@
+{
+  "name": "Gordon College CCS",
+  "description": "Modern neubrutalist portal for Gordon College College of Computer Studies, featuring interactive program guides, faculty directory, news feed, and AI advisor.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
